@@ -1,14 +1,22 @@
 * {
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: 'Megrim', cursive;
 }
 body {
     margin: 0;
     padding: 0
 }
-header > h1 {
-    color: #f8f400;
-    padding: 40px;
+header > h1, h3 {
+    color: #B7C8D9;
+    padding: 0 40px;
 }
 header {
-    background: #e3007b
+    background: #253C5B
 }
+header > h1 {
+    padding-top: 40px
+}
+header > h3 {
+    padding-bottom: 40px
+}
+
+
