@@ -1,3 +1,14 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
+body {
+    margin: 0;
+    padding: 0
+}
+header > h1 {
+    color: #f8f400;
+    padding: 40px;
+}
+header {
+    background: #e3007b
+}
